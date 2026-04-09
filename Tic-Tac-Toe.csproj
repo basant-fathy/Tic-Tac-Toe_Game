@@ -114,27 +114,6 @@
     <None Include="X.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="mixkit-video-game-win-2016.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="mixkit-game-level-music-689.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="mixkit-unlock-game-notification-253.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Final Winner.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Game Sound.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Round Result.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="ClickSound.wav" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Round Result.wav" />
   </ItemGroup>
   <ItemGroup>
