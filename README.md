@@ -15,14 +15,14 @@ A modern, feature-rich **Tic-Tac-Toe** game built with **C# and WinForms**. This
 * **🎨 Modern UI/UX:** Clean, dark-themed design with intuitive controls and animations.
 * **🎵 Interactive Sounds:** Immersive sound effects for moves, winning, and game starts.
 * **⚙️ Smart Validation:** Prevents starting games without required info or difficulty selection.
-
+  
 ---
 
 ## 📸 Screenshots
 
-| Setup Screen | Gameplay | End Game |
-| :---: | :---: | :---: |
-
+| Start | Setup Screen | Gameplay | End Game |
+| :---: | :---: | :---: | :---: |
+| ![Start](https://raw.githubusercontent.com/basant-fathy/Tic-Tac-Toe_Game/main/Screenshots/start.png) | ![Setup](https://raw.githubusercontent.com/basant-fathy/Tic-Tac-Toe_Game/main/Screenshots/setup.png) | ![Gameplay](https://raw.githubusercontent.com/basant-fathy/Tic-Tac-Toe_Game/main/Screenshots/gameplay.png) | ![End](https://raw.githubusercontent.com/basant-fathy/Tic-Tac-Toe_Game/main/Screenshots/end.png) |
 ---
 
 ## 🛠️ Tech Stack
