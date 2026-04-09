@@ -52,6 +52,14 @@ The AI core uses a "Virtual Checker" method:
 2.  Open the `.sln` file in **Visual Studio 2022**.
 3.  Press **F5** to Build and Run.
 
+*⚠️ Important (Windows Users)*
+
+If you downloaded the project as a ZIP file and encountered build errors related to .resx files:
+- Right-click any .resx file in project folder
+- Select Properties
+- Check Unblock
+- Click Apply
+
 ---
 
 ## 👩‍💻 Developed By
